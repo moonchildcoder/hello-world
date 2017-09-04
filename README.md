@@ -1,2 +1,2 @@
 # hello-world
-trial and error
+Hello! I like food, space, and occasionally books/anime :)
